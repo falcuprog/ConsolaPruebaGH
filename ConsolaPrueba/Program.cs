@@ -14,6 +14,7 @@ namespace ConsolaPrueba
             StreamWriter sw = new StreamWriter(f, false);
             sw.WriteLine("HOLA MUNDO");
             sw.WriteLine("hi world");
+            Console.WriteLine("HOLA ELIZA ELIZABETH");
         }
     }
 }
