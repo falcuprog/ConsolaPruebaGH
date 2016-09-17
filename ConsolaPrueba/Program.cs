@@ -11,7 +11,8 @@ namespace ConsolaPrueba
     {
         static void Main(string[] args)
         {
-            StreamWriter sw = new StreamWriter();
+            StreamWriter sw = new StreamWriter(f, false);
+            sw.WriteLine("HOLA MUNDO");
 
         }
     }
