@@ -10,6 +10,7 @@ namespace ConsolaPrueba
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("HOLA SOY FRANKLIN");
         }
     }
 }
