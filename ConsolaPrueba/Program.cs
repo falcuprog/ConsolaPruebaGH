@@ -10,7 +10,7 @@ namespace ConsolaPrueba
     {
         static void Main(string[] args)
         {
-            
+
         }
     }
 }
